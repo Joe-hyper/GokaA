@@ -35,3 +35,21 @@ Prerequisites
 Python 3.x
 Jupyter Notebook
 Libraries: pandas, numpy, matplotlib, seaborn, networkx, causal inference libraries (e.g., DoWhy)
+
+
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Joe-hyper/GokaA.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd GokaA
+    ```
+
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
