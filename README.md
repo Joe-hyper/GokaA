@@ -11,7 +11,7 @@ Challenge: Address the sub-optimal placement of motorbike drivers (pilots) and c
 Objective: Understand the primary causes of unfulfilled requests and recommend optimal driver locations to increase the fraction of completed orders, improving client satisfaction and business growth.
 
 Business Need
-Gokaa Works, partnered with motorbike owners and drivers, delivers parcels across Lagos, Nigeria. With over a million deliveries and a fleet of 1200+ riders, Ada faces challenges in driver and client placement, resulting in many unfulfilled delivery requests. As drivers are paid based on accepted requests, optimizing driver locations is crucial for enhancing client satisfaction and business growth.
+Gokada Works, partnered with motorbike owners and drivers, delivers parcels across Lagos, Nigeria. With over a million deliveries and a fleet of 1200+ riders, Ada faces challenges in driver and client placement, resulting in many unfulfilled delivery requests. As drivers are paid based on accepted requests, optimizing driver locations is crucial for enhancing client satisfaction and business growth.
 
 Proposed Methodology
 1. Exploratory Data Analysis (EDA) and Feature Engineering
